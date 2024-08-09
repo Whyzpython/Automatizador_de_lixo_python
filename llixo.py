@@ -15,10 +15,10 @@ def excluir_arquivos(pastas):
 
 # Lista de caminhos das pastas que você deseja excluir os arquivos
 pastas = [
-    'C:\\Users\\wesll\\AppData\\Local\\Temp', 
-    'C:\\Users\\wesll\\Recent', 
-    'C:\\Windows\\Prefetch', 
-    'C:\\Windows\\Temp'
+    'C:SUA PASTA AQUI', 
+    'C:SUA PASTA AQUI', 
+    'C:SUA PASTA AQUI', 
+    'C:\\Windows\\Temp' #EXEMPLO
 ]
 
 excluir_arquivos(pastas)
